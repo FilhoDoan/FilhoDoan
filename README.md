@@ -4,6 +4,7 @@ formado em Análise e Desenvolvimento de Sistemas 🎓
 
 - Atualmente estou cursando o 4º semestre de engenharia de software 
 - Estudando: Java, python entre outros 
+- Contato: doangalvaofilho@gmail.com
 
 <div> 
 <img height = "160cm" src = "https://github-readme-stats.vercel.app/api?username=FilhoDoan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=939&ring_color=939&custom_title=Status"/>
@@ -21,12 +22,8 @@ formado em Análise e Desenvolvimento de Sistemas 🎓
 <div/>
 
 
-##
-  
-<div>  
-  <a href ="doangalvaofilho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
-<div/>
 
+  
 
 
 
