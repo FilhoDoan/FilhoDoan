@@ -11,7 +11,7 @@ formado em Análise e Desenvolvimento de Sistemas 🎓
 <img align="center" height = "200cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=FilhoDoan&layout=default&langs_count=16&theme=dark&show_owner=true&custom_title=Linguagens"/>
 </div>
 
-## Liguagens que Uso 
+## Linguagens que Uso 
 <div>
   
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
