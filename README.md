@@ -8,7 +8,7 @@ formado em Análise e Desenvolvimento de Sistemas 🎓
 
 <div> 
 <img align="center" height = "200cm" src = "https://github-readme-stats.vercel.app/api?username=FilhoDoan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=939&ring_color=939&custom_title=Status"/>
-<img align="center" height = "250cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=FilhoDoan&layout=compact&langs_count=16&theme=dark&show_owner=true&custom_title=Linguagens"/>
+<img align="center" height = "200cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=FilhoDoan&layout=compact&langs_count=16&theme=dark&show_owner=true&custom_title=Linguagens"/>
 </div>
 
 ## Linguagens que Uso 
