@@ -2,8 +2,7 @@
 📚 Sou estudante de Engenharia de Software pela Universidade de Brasília e 
 formado em Análise e Desenvolvimento de Sistemas 🎓
 
-- Atualmente estou cursando o 4º semestre de Engenharia de Software 
-- Estudando: Java, python entre outros 
+ - Estudando: Java, python entre outros 
 - Contato: doangalvaofilho@gmail.com
 
 <div> 
