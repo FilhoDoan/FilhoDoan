@@ -2,22 +2,12 @@
 📚 Sou estudante de Engenharia de Software pela Universidade de Brasília e 
 formado em Análise e Desenvolvimento de Sistemas 🎓
 
- - Estudando: Java, python entre outros 
-- Contato: doangalvaofilho@gmail.com
-
-<div> 
-<img align="center" height = "200cm" src = "https://github-readme-stats.vercel.app/api?username=FilhoDoan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=939&ring_color=939&custom_title=Status"/>
+<div align = "center"> 
+<img  height = "200cm" src = "https://github-readme-stats.vercel.app/api?username=FilhoDoan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=939&ring_color=939&custom_title=Status"/>
 <br></br>
 
-<img align="center" height = "200cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=FilhoDoan&layout=compact&theme=dark&show_owner=true&custom_title=Linguagens"/>
+<img  height = "222m" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=FilhoDoan&layout=compact&theme=dark&show_owner=true&custom_title=Linguagens&count_private=true"/>
 </div>
-
-
-
-
-
-
-
 
 ## Linguagens que Uso 
 <div>
