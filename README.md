@@ -1,6 +1,7 @@
 # **Olá, Meu nome é Doan**   
-📚 Sou estudante de Engenharia de Software pela Universidade de Brasília e 
-formado em Análise e Desenvolvimento de Sistemas 🎓
+- Sou estudante de Engenharia de Software pela Universidade de Brasília  
+- Formado em Análise e Desenvolvimento de Sistemas
+- Estudante de design e pintura digital
 <br></br>
 
 ## **Tecnologias** 
