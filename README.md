@@ -24,13 +24,8 @@ formado em Análise e Desenvolvimento de Sistemas 🎓
 <img  height = "222m" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=FilhoDoan&layout=compact&theme=dark&show_owner=true&custom_title=Linguagens&count_private=true"/>
 </div>
 
-##
+
   
-<div>
-<a href = "https://www.instagram.com/doan_filhoo" target="blank"> <img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-
-</div>
-
 
 
   
