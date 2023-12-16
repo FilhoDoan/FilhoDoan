@@ -2,10 +2,11 @@
 - Sou estudante de Engenharia de Software pela Universidade de Brasília  
 - Formado em Análise e Desenvolvimento de Sistemas
 - Estudante de design e pintura digital
+
 <br></br>
 
 ## **Tecnologias** 
-<div>
+<div align = "center">
   
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -16,25 +17,13 @@
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
       
-<div/>
-<br></br>
-<div> 
-<img  height = "200cm" src = "https://github-readme-stats.vercel.app/api?username=FilhoDoan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=939&ring_color=939&custom_title=Status"/>
-<br></br>
-
-<img  height = "222m" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=FilhoDoan&layout=compact&theme=dark&show_owner=true&custom_title=Linguagens&count_private=true"/>
 </div>
+<br></br>
+<div align ="center">
 
+<img height = "150m" width = "500" src = "https://github-readme-stats.vercel.app/api?username=FilhoDoan&show_icons=true&theme=dark#gh-dark-mode-only"/>
+<br></br>
+<img  height = "220m" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=FilhoDoan&layout=donut&theme=dark#gh-dark-mode-only&show_owner=true&custom_title=Linguagens mais Usadas&count_private=true"/>
 
-  
-
-
-  
-
-
-
-
-
-
-
-
+![Visitor Count](https://profile-counter.glitch.me/FilhoDoan/count.svg)
+</div>
