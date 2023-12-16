@@ -21,7 +21,7 @@
 <br></br>
 <div align ="center">
 
-<img height = "150m" width = "500" src = "https://github-readme-stats.vercel.app/api?username=FilhoDoan&show_icons=true&theme=dark#gh-dark-mode-only"/>
+<img height = "180m" width = "500" src = "https://github-readme-stats.vercel.app/api?username=FilhoDoan&show_icons=true&theme=dark#gh-dark-mode-only"/>
 <br></br>
 <img  height = "220m" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=FilhoDoan&layout=donut&theme=dark#gh-dark-mode-only&show_owner=true&custom_title=Linguagens mais Usadas&count_private=true"/>
 
